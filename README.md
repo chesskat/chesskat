@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on data science projects. 
 - 📫 How to reach me: kataroobungaloo@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Even informal education has a causual relationship to personal wealth!
+- ⚡ Fun fact: Even informal education has a causal relationship to personal wealth!
