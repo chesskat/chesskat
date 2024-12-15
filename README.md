@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Katarina
 - 🌱 I enjoy learning 
-- 📫 How to reach me: katarinajojones@gmail.com
-- ⚡ Fun fact: The diameter of the universe would take approximately fifty-two quadrillion years to drive at average high-way speed. 
+- 📫 Email me: katarinajojones@gmail.com
+- ⚡ Fun fact: The diameter of the universe would take approximately fifty-two quadrillion years to drive at high-way speed. 
