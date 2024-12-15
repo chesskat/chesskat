@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Katarina
-- 👀 I’m interested in continuous improvement
-- 🌱 I’m currently learning diplomacy skills, set theory, and chess engine evaluation functions.  
-- 💞️ I’m looking to collaborate on data science projects. 
-- 📫 How to reach me: kataroobungaloo@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Even informal education has a causal relationship to personal wealth!
+- 🌱 I enjoy learning 
+- 📫 How to reach me: katarinajojones@gmail.com
+- ⚡ Fun fact: The diameter of the universe would take approximately fifty-two quadrillion years to drive at average high-way speed. 
